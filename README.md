@@ -1,6 +1,6 @@
 # 🎉 Guess Master 🎉
 
-**Guess Master** is an interactive number guessing game developed in C# using .NET Framework and Windows Forms. Designed to provide an engaging and challenging experience, the game helps players hone their logical thinking and number deduction skills.
+**Guess Master** is an interactive number guessing game developed in C# and using .NET Framework and Windows Forms. Designed to provide an engaging and challenging experience, the game helps players hone their logical thinking and number deduction skills.
 
 ## 📋 Project Overview
 
