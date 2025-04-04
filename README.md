@@ -21,7 +21,7 @@ Guess Master challenges players to identify a randomly selected number within a 
 
 ## 🎯 Purpose and Goals
 
-Guess Master was developed to provide an enjoyable and interactive game while exploring fundamental concepts in C# programming, UI design, and event-driven development. This project showcases proficiency in .NET Framework and Windows Forms, with a focus on creating engaging user experiences through responsive design and real-time feedback.
+Guess Master was built to provide an enjoyable and interactive game while exploring fundamental concepts in C# programming, UI design, and event-driven development. This project showcases proficiency in .NET Framework and Windows Forms, with a focus on creating engaging user experiences through responsive design and real-time feedback.
 
 ## 🚀 Future Enhancements
 
